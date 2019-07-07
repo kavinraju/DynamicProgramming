@@ -1,4 +1,4 @@
-package com.skr.dynamicprogramming.leastcommmonsequence;
+package com.skr.dynamicprogramming.longestcommmonsequence;
 
 import java.util.Arrays;
 

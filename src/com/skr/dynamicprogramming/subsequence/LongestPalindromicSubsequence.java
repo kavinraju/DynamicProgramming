@@ -1,4 +1,4 @@
-package com.skr.dynamicprogramming.longestpalindromicsubsequence;
+package com.skr.dynamicprogramming.subsequence;
 
 import java.util.Arrays;
 
